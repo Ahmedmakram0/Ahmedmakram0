@@ -1,10 +1,10 @@
 # Hi, I'm Ahmed Makram! 👋
 
 
-I’m a **mid-level .NET backend developer** with expertise in building scalable, secure, and efficient applications. My goal is to provide software solutions that solve real-world problems while maintaining high performance and flexibility.
+I’m a **junior .NET backend developer** with expertise in building scalable, secure, and efficient applications. My goal is to provide software solutions that solve real-world problems while maintaining high performance and flexibility.
 
 ---
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJvajBsMjFjaHp1bGI0NGFweHoxeWNucXo5bTg3dDd2cHpsb2s4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Smolverse GIF" width="100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJvajBsMjFjaHp1bGI0NGFweHoxeWNucXo5bTg3dDd2cHpsb2s4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Smolverse GIF" />
 
 
 ---
