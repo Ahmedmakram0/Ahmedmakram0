@@ -1,49 +1,86 @@
-# Hi, I'm Ahmed Makram! 👋
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpmMDdycmZuaDlzdXAzZDJpZGFpNTV6NXY3dWpzaGhjcnFwejg3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"  />
+</div>
 
+###
 
-I’m a **junior .NET backend developer** with expertise in building scalable, secure, and efficient applications. My goal is to provide software solutions that solve real-world problems while maintaining high performance and flexibility.
+<h1 align="left">Hi, I'm Ahmed Makram! 👋</h1>
 
----
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJvajBsMjFjaHp1bGI0NGFweHoxeWNucXo5bTg3dDd2cHpsb2s4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Smolverse GIF" width="100%" />
+###
 
+<p align="left">I’m a junior .NET backend developer with expertise in building scalable, secure, and efficient applications. My goal is to provide software solutions that solve real-world problems while maintaining high performance and flexibility.</p>
 
----
+###
 
-## 💻 Technologies & Skills
+<div align="left">
+  <a href="www.linkedin.com/in/ahmedmakram1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ahmedmakram0697" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="ahmedmakram01550858268@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-- **Languages**: C#, SQL, JavaScript,Python
-- **Frameworks & Tools**: ASP.NET (.NET 8), Entity Framework, MVC, LINQ  
-- **Database Management**: SQL Server  
-- **Version Control**: Git, GitHub  
-- **Development Principles**: SOLID, Design Patterns, Clean Code  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/towergit/towergit-original.svg" height="40" alt="towergit logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
 
-## 🚀 Projects Highlights
+###
 
-- **Battery Notifier**: A desktop app to manage laptop battery notifications.  
-- **Inventory Management System**: Tracks sales and inventory with robust reporting features.  
-- **Meal Suggestion API**: Recommends meals based on user preferences using .NET 8.  
-- **Portfolio Website**: Showcases my skills, projects, and contact details.  
+<img src="https://raw.githubusercontent.com/Ahmedmakram0/Ahmedmakram0/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 🌱 Currently Learning
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedmakram0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmakram0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-I’m continually improving my skills in:  
-- Cloud technologies  
-- Advanced design patterns  
-- Machine learning integration with .NET  
-
----
-
-## 📬 Let’s Connect
-
-- **GitHub**: [AhmedMakram0](https://github.com/AhmedMakram0)  
-- **LinkedIn**: (www.linkedin.com/in/ahmedmakram1)  
-- **Email**: Ahmed01550858268@gmail.com  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-Let’s build something amazing together! 🚀
+###
